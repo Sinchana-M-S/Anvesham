@@ -1,0 +1,8 @@
+ultralytics==8.4.216
+torch
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+Pillow
